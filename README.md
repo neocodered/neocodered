@@ -57,7 +57,6 @@
 ### 📊 **GitHub Stats**
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=neocodered&show_icons=true&theme=dark&count_private=true" />
-<img src="https://streak-stats.demolab.com?user=neocodered&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
