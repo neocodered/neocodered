@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 ## 👋 Hello! I'm Nadil Gunawardane / neo  
 
@@ -23,6 +23,7 @@
 
 ---
 
+
 ### 🛠 **Technical Skills**  
 #### 🚀 Programming:  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,10 +46,13 @@
 
 ---
 
+<div align="center">
+
+
 ### 📊 **GitHub Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=neocodered&show_icons=true&theme=dark&count_private=true" />
 <img src="https://streak-stats.demolab.com?user=neocodered&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
-
+</div>
 ---
 
 ### 🌎 **Let's Connect**  
