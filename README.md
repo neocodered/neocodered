@@ -1,5 +1,7 @@
 <div>
 
+<img align="right" alt="Working Man GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
 ## 👋 Hello! I'm Nadil Gunawardane / neo  
 
 🚀 **Electronic and Telecommunication Engineering Undergraduate**  
@@ -14,15 +16,6 @@
 📡 **Machine Learning & Computer Vision** projects  
 
 ---
-
-### 🏆 **Awards & Achievements**
-🥇 **1st Place** - Raspberry Pi Challenge (2017) 🏆  
-🏅 **Finalist** - Sri Lanka Robotics Challenge (2024)  
-🏅 **Finalist** - IESL Robogames (2023)  
-🎯 **5th Place** - Robofest (2024)  
-
----
-
 
 ### 🛠 **Technical Skills**  
 #### 🚀 Programming:  
@@ -53,6 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=neocodered&show_icons=true&theme=dark&count_private=true" />
 <img src="https://streak-stats.demolab.com?user=neocodered&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+
 ---
 
 ### 🌎 **Let's Connect**  
