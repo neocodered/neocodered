@@ -1,8 +1,14 @@
 <div>
 
-<img align="right" alt="Working Man GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img align="right" alt="Working Man GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-## 👋 Hello! I'm Nadil Gunawardane / neo  
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Nadil Gunawardane / neo <div><img align="center" src="https://komarev.com/ghpvc/?username=neocodered&color=brightgreen&label=Profile+Views" height="20" width="120">
+</div></h1> 
+
+
 
 🚀 **Electronic and Telecommunication Engineering Undergraduate**  
 🤖 **Passionate about Robotics, Image Processing, and Machine Learning**  
